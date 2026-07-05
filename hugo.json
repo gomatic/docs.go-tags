@@ -1,5 +1,5 @@
 {
-  "baseURL": "https://skykernel.github.io/docs.go-tags/",
+  "baseURL": "https://gomatic.github.io/docs.go-tags/",
   "title": "go-tags Documentation",
   "publishDir": "_site",
   "enableRobotsTXT": true,
