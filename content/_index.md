@@ -1,6 +1,7 @@
 ---
 title: go-tags
 ---
+
 **Generic key/value pair conversion for Go: convert between `key=value` arguments, `map[string]string`, and lists of any type exposing `GetKey()` and `GetValue()` methods (the accessor shape generated protobuf messages share).** The package owns only the pair-list conversions the standard library cannot express; pure map operations (clone, merge, key removal) stay in stdlib `maps` and `slices` at the call site.
 
 - **Source:** [gomatic/go-tags](https://github.com/gomatic/go-tags)
