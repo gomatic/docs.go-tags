@@ -9,7 +9,7 @@ title: go-tags
 
 ## Install
 
-```
+```sh
 go get github.com/gomatic/go-tags
 ```
 
